@@ -1,0 +1,15 @@
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\BankingService.exe
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\BankingService.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\BankingService.deps.json
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\BankingService.runtimeconfig.json
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\BankingService.pdb
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\BankingService\BankingService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
